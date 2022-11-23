@@ -1,0 +1,13 @@
+com/example/lab_4/BuildConfig.java
+ com.example.lab_4.BuildConfig
+com/example/lab_4/DeleteNote.java
+ com.example.lab_4.DeleteNote
+ com.example.lab_4.DeleteNote$1
+ com.example.lab_4.DeleteNote$2
+com/example/lab_4/MainActivity.java
+ com.example.lab_4.MainActivity
+ com.example.lab_4.MainActivity$1
+ com.example.lab_4.MainActivity$2
+com/example/lab_4/EditNote.java
+ com.example.lab_4.EditNote
+ com.example.lab_4.EditNote$1

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\layout_activity_add_note.xml.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\layout_activity_delete_note.xml.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\layout\\activity_delete_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-pngs-15:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\menu_menu_notes.xml.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\menu\\menu_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab_4.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.example.lab_4.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-merged_res-20:\\layout_activity_edit_note.xml.flat",
+        "source": "C:\\Users\\tomil\\.gradle\\daemon\\7.4\\com.example.lab_4.app-main-22:\\layout\\activity_edit_note.xml"
+    }
+]

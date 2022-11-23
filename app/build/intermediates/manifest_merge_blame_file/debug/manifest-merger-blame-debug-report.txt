@@ -1,0 +1,163 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.lab_4"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:10:5-79
+11-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:10:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:11:5-67
+12-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:11:22-64
+13
+14    <application
+14-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:4:5-26:19
+15        android:allowBackup="true"
+15-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:5:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] C:\Users\tomil\.gradle\caches\transforms-3\5c5e8dce9a0ed12f290ac39851d18ca8\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:6:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:7:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:8:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:9:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.Lab_4" >
+23-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:10:9-43
+24        <activity
+24-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:11:9-13:39
+25            android:name="com.example.lab_4.DeleteNote"
+25-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:12:13-39
+26            android:exported="true" />
+26-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:13:13-36
+27        <activity
+27-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:14:9-16:39
+28            android:name="com.example.lab_4.AddNote"
+28-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:15:13-36
+29            android:exported="true" />
+29-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:16:13-36
+30        <activity
+30-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:17:9-25:20
+31            android:name="com.example.lab_4.MainActivity"
+31-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:18:13-41
+32            android:exported="true" >
+32-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:19:13-36
+33            <intent-filter>
+33-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:20:13-24:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:21:17-69
+34-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:21:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:23:17-77
+36-->C:\Users\tomil\AndroidStudioProjects\Lab_4\app\src\main\AndroidManifest.xml:23:27-74
+37            </intent-filter>
+38        </activity>
+39
+40        <service
+40-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:14:9-20:19
+41            android:name="com.google.firebase.components.ComponentDiscoveryService"
+41-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:15:13-84
+42            android:directBootAware="true"
+42-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+43            android:exported="false" >
+43-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:16:13-37
+44            <meta-data
+44-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:17:13-19:85
+45                android:name="com.google.firebase.components:com.google.firebase.inappmessaging.FirebaseInAppMessagingRegistrar"
+45-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:18:17-129
+46                android:value="com.google.firebase.components.ComponentRegistrar" />
+46-->[com.google.firebase:firebase-inappmessaging:19.1.5] C:\Users\tomil\.gradle\caches\transforms-3\3394543d7d463dc973647e82c6adf570\transformed\jetified-firebase-inappmessaging-19.1.5\AndroidManifest.xml:19:17-82
+47            <meta-data
+47-->[com.google.firebase:firebase-abt:20.0.0] C:\Users\tomil\.gradle\caches\transforms-3\6ade707a8095bb97bf58a174b44dcefd\transformed\jetified-firebase-abt-20.0.0\AndroidManifest.xml:13:13-15:85
+48                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+48-->[com.google.firebase:firebase-abt:20.0.0] C:\Users\tomil\.gradle\caches\transforms-3\6ade707a8095bb97bf58a174b44dcefd\transformed\jetified-firebase-abt-20.0.0\AndroidManifest.xml:14:17-109
+49                android:value="com.google.firebase.components.ComponentRegistrar" />
+49-->[com.google.firebase:firebase-abt:20.0.0] C:\Users\tomil\.gradle\caches\transforms-3\6ade707a8095bb97bf58a174b44dcefd\transformed\jetified-firebase-abt-20.0.0\AndroidManifest.xml:15:17-82
+50            <meta-data
+50-->[com.google.firebase:firebase-datatransport:17.0.11] C:\Users\tomil\.gradle\caches\transforms-3\f60055f827e845c5b9f5ec9320908b9b\transformed\jetified-firebase-datatransport-17.0.11\AndroidManifest.xml:28:13-30:85
+51                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+51-->[com.google.firebase:firebase-datatransport:17.0.11] C:\Users\tomil\.gradle\caches\transforms-3\f60055f827e845c5b9f5ec9320908b9b\transformed\jetified-firebase-datatransport-17.0.11\AndroidManifest.xml:29:17-115
+52                android:value="com.google.firebase.components.ComponentRegistrar" />
+52-->[com.google.firebase:firebase-datatransport:17.0.11] C:\Users\tomil\.gradle\caches\transforms-3\f60055f827e845c5b9f5ec9320908b9b\transformed\jetified-firebase-datatransport-17.0.11\AndroidManifest.xml:30:17-82
+53            <meta-data
+53-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\tomil\.gradle\caches\transforms-3\e7074b963e2e47bcf80c950b0bd49de7\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+54                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+54-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\tomil\.gradle\caches\transforms-3\e7074b963e2e47bcf80c950b0bd49de7\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+55                android:value="com.google.firebase.components.ComponentRegistrar" />
+55-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\tomil\.gradle\caches\transforms-3\e7074b963e2e47bcf80c950b0bd49de7\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+56            <!--
+57                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+58                clients to use it as well, by defining this registrar in their own core/common library.
+59            -->
+60            <meta-data
+60-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+61                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+61-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+63        </service>
+64
+65        <provider
+65-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+66            android:name="com.google.firebase.provider.FirebaseInitProvider"
+66-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+67            android:authorities="com.example.lab_4.firebaseinitprovider"
+67-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+68            android:directBootAware="true"
+68-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+69            android:exported="false"
+69-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+70            android:initOrder="100" />
+70-->[com.google.firebase:firebase-common:19.5.0] C:\Users\tomil\.gradle\caches\transforms-3\86cafcb74224bbb7377f766779808b54\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+71
+72        <meta-data
+72-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\tomil\.gradle\caches\transforms-3\7ea3217cb95a14527141aec83ae009f0\transformed\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
+73            android:name="com.google.android.gms.version"
+73-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\tomil\.gradle\caches\transforms-3\7ea3217cb95a14527141aec83ae009f0\transformed\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
+74            android:value="@integer/google_play_services_version" />
+74-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\tomil\.gradle\caches\transforms-3\7ea3217cb95a14527141aec83ae009f0\transformed\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
+75
+76        <service
+76-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\tomil\.gradle\caches\transforms-3\f8582a719f7364a08fadd5071b83bef5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+77            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+77-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\tomil\.gradle\caches\transforms-3\f8582a719f7364a08fadd5071b83bef5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+78            android:exported="false" >
+78-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\tomil\.gradle\caches\transforms-3\f8582a719f7364a08fadd5071b83bef5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+79            <meta-data
+79-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\tomil\.gradle\caches\transforms-3\f8582a719f7364a08fadd5071b83bef5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+80                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+80-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\tomil\.gradle\caches\transforms-3\f8582a719f7364a08fadd5071b83bef5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+81                android:value="cct" />
+81-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\tomil\.gradle\caches\transforms-3\f8582a719f7364a08fadd5071b83bef5\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+82        </service>
+83        <service
+83-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\tomil\.gradle\caches\transforms-3\ebb1d31630e6fa4c371325cfc8f3d973\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+84            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+84-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\tomil\.gradle\caches\transforms-3\ebb1d31630e6fa4c371325cfc8f3d973\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+85            android:exported="false"
+85-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\tomil\.gradle\caches\transforms-3\ebb1d31630e6fa4c371325cfc8f3d973\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+86            android:permission="android.permission.BIND_JOB_SERVICE" >
+86-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\tomil\.gradle\caches\transforms-3\ebb1d31630e6fa4c371325cfc8f3d973\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+87        </service>
+88
+89        <receiver
+89-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\tomil\.gradle\caches\transforms-3\ebb1d31630e6fa4c371325cfc8f3d973\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+90            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+90-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\tomil\.gradle\caches\transforms-3\ebb1d31630e6fa4c371325cfc8f3d973\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+91            android:exported="false" />
+91-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\tomil\.gradle\caches\transforms-3\ebb1d31630e6fa4c371325cfc8f3d973\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+92    </application>
+93
+94</manifest>
